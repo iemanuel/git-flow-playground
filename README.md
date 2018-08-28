@@ -1,1 +1,5 @@
-# git-flow-playground
+# Git flow playground
+
+## Prerequistes
+git bash
+git flow
