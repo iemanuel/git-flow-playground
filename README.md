@@ -3,3 +3,9 @@
 ## Prerequistes
 git bash
 git flow
+
+##Commands needed
+git flow init
+
+
+
